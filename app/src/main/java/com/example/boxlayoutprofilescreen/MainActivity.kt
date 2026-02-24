@@ -52,7 +52,7 @@ fun ProfileScreen() {
     // MAIN SCREEN WRAPPER
     Column(modifier = Modifier.fillMaxSize()) {
         // REQUIREMENT: M3 component - TopAppBar
-        TopAppBar(title = { Text("Profile") })
+        TopAppBar(title = { Text("VeryCoolCafe Rewards Profile") })
 
         // PROFILE HEADER SECTION
         // REQUIREMENT: Box for layering (Chapter 28.2)
