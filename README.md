@@ -37,3 +37,19 @@ The following 7 M3 components were implemented (exceeding the requirement of 5):
 
 ### 📸 Screenshot
 ![Running App Screenshot](BoxLayoutScreenshot.png)
+
+---
+
+# AI DISCLOSURE
+
+### Universal AI Statment 
+I utilized Gemini to ensure that I met each of the project requirements, as well as prompting it for assistance with commenting and ensuring my code followed standard Kotlin conventions. In several instances, AI-generated comments were omitted or manually rewritten to ensure accuracy and flow. Because the AI occasionally "hallucinated" requirements or skipped constraints, I manually verified every line of code against the rubric, using Gemini primarily as a second pair of eyes and a brainstorming partner.
+
+Additionally, I used it to draft my READMES, though I occassionally needed to omit unneccessary (and frankly, sometimes strange) details.
+
+---
+
+## Q2: Box Profile Screen
+* **Visual Polish:** I consulted Gemini on how to add more detail to the "avatar zone" of the profile header. It suggested using `Icons.Default.Person`, which provided the whimsy and polish necessary to the layout.
+
+
